@@ -9,7 +9,6 @@ public class Tester {
         tester2();
     }
 
-
     private static void tester1() {
         Athlete billy = new Athlete();
         billy.move();
