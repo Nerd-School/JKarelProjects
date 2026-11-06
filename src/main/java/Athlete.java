@@ -6,6 +6,7 @@ public class Athlete extends Robot {
 //    private int y;
 //    private int direction;
 //    private int beepers;
+    private int xa;
 
     public Athlete(){
         super(1,1,Display.EAST,Display.INFINITY);
